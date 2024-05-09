@@ -1,0 +1,14 @@
+C:\Users\BFI ITG\Downloads\quiz\book\bin\Debug\net8.0\book.exe
+C:\Users\BFI ITG\Downloads\quiz\book\bin\Debug\net8.0\book.deps.json
+C:\Users\BFI ITG\Downloads\quiz\book\bin\Debug\net8.0\book.runtimeconfig.json
+C:\Users\BFI ITG\Downloads\quiz\book\bin\Debug\net8.0\book.dll
+C:\Users\BFI ITG\Downloads\quiz\book\bin\Debug\net8.0\book.pdb
+C:\Users\BFI ITG\Downloads\quiz\book\obj\Debug\net8.0\book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BFI ITG\Downloads\quiz\book\obj\Debug\net8.0\book.AssemblyInfoInputs.cache
+C:\Users\BFI ITG\Downloads\quiz\book\obj\Debug\net8.0\book.AssemblyInfo.cs
+C:\Users\BFI ITG\Downloads\quiz\book\obj\Debug\net8.0\book.csproj.CoreCompileInputs.cache
+C:\Users\BFI ITG\Downloads\quiz\book\obj\Debug\net8.0\book.dll
+C:\Users\BFI ITG\Downloads\quiz\book\obj\Debug\net8.0\refint\book.dll
+C:\Users\BFI ITG\Downloads\quiz\book\obj\Debug\net8.0\book.pdb
+C:\Users\BFI ITG\Downloads\quiz\book\obj\Debug\net8.0\book.genruntimeconfig.cache
+C:\Users\BFI ITG\Downloads\quiz\book\obj\Debug\net8.0\ref\book.dll

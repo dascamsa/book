@@ -1,0 +1,6 @@
+Title: Sample Book
+Author: John Doe
+Pages: 200
+Genre: Fiction
+Publisher: ABC Publications
+ISBN: 123-1234567890
